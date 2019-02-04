@@ -1,0 +1,10 @@
+C:\Users\Ahmet KAYKISIZ\source\repos\projev3\projev3\obj\Debug\projev3.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet KAYKISIZ\source\repos\projev3\projev3\obj\Debug\projev3.Form1.resources
+C:\Users\Ahmet KAYKISIZ\source\repos\projev3\projev3\obj\Debug\projev3.Properties.Resources.resources
+C:\Users\Ahmet KAYKISIZ\source\repos\projev3\projev3\obj\Debug\projev3.csproj.GenerateResource.Cache
+C:\Users\Ahmet KAYKISIZ\source\repos\projev3\projev3\obj\Debug\projev3.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet KAYKISIZ\source\repos\projev3\projev3\bin\Debug\projev3.exe.config
+C:\Users\Ahmet KAYKISIZ\source\repos\projev3\projev3\bin\Debug\projev3.exe
+C:\Users\Ahmet KAYKISIZ\source\repos\projev3\projev3\bin\Debug\projev3.pdb
+C:\Users\Ahmet KAYKISIZ\source\repos\projev3\projev3\obj\Debug\projev3.exe
+C:\Users\Ahmet KAYKISIZ\source\repos\projev3\projev3\obj\Debug\projev3.pdb
